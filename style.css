@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color:brown;
+    font-size: 36px;
+}
+
+#tour_dates {
+    color:red;
+}
+
+ol > li {
+    color: aqua;
+}
+
+.text-block {
+    font-weight: bold;
+}
+
+.class1.class2 {
+    color: blue;
+}
